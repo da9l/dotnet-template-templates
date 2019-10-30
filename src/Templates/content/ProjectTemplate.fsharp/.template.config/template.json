@@ -3,21 +3,22 @@
   "classifications": [
     "Common",
     "Templates",
-    "Item"
+    "Project"
   ],
-  "name": "Item template",
-  "identity": "FiftyProtons.Item",
-  "groupIdentity": "FiftyProtons.Templates.Item",
-  "shortName": "item-template",
+  "name": "Project template",
+  "identity": "FiftyProtons.Templates.Project.FSharp",
+  "groupIdentity": "FiftyProtons.Templates.Project",
+  "shortName": "project-template",
   "tags": {
+    "language": "F#",
     "type": "project"
   },
-  "sourceName": "ItemTemplate",
+  "sourceName": "ProjectTemplate",
   "guids": [],
   "preferNameDirectory": true,
   "primaryOutputs": [
     {
-      "path": "ItemTemplate.csproj"
+      "path": "ProjectTemplate.fsproj"
     }
   ],
   "sources": [

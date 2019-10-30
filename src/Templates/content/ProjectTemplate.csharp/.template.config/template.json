@@ -6,7 +6,7 @@
     "Project"
   ],
   "name": "Project template",
-  "identity": "FiftyProtons.Project",
+  "identity": "FiftyProtons.Templates.Project.CSharp",
   "groupIdentity": "FiftyProtons.Templates.Project",
   "shortName": "project-template",
   "tags": {

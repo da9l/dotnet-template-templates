@@ -1,0 +1,17 @@
+{
+  "author": "Me",
+  "classifications": [],
+  "name": "MyProject",
+  "identity": "templates.MyProject",
+  "shortName": "MyProject",
+  "tags": {
+    "language": "F#",
+    "type": "project"
+  },
+  "sourceName": "MyProject",
+  "guids": [],
+  "preferNameDirectory": true,
+  "primaryOutputs": [
+    { "path": "MyProject.fsproj" }
+  ]
+}
